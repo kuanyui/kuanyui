@@ -1,0 +1,4 @@
+If my works is usable to you, please consider to donate to reduce my business hours to make more free and open source projects:
+- [[https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=G4F7NM38ADPEC&source=url][PayPal]]
+- [[https://liberapay.com/onoono][LibraPay]]
+- [[https://www.patreon.com/onoono][Patreon]]
