@@ -6,4 +6,4 @@ However, my "free time" is **not free** at all. If some of my works are usable t
 - <a href="https://liberapay.com/onoono"> <img width="24" height="24" src="./img/liberapay.svg"/>LiberaPay</a>
 - <a href="https://www.patreon.com/onoono"> <img width="24" height="24" src="./img/patreon.svg"/>Patreon</a>
 
-Thanks for your contribution!
+Thanks for your contribution and happy hacking!
