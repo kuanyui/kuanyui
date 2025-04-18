@@ -1,3 +1,7 @@
+> Quick Links
+> - [.dotfiles-public](https://github.com/kuanyui/.dotfiles-public)
+> - [container-template](https://github.com/kuanyui/container-template)
+
 I develop and release **all** of my open-source software projects **for free**, and are **all** licensed under `WTFPL`, `GPL`, `MIT`, or `MPL`. 
 
 However, my "free time" is **not free** at all. If some of my works are usable to you or make you happy, please consider to donate (and tell me which project helps you, if can) to reduce my business hours to **make more free and open-source projects for you and this world**.
